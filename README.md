@@ -11,4 +11,8 @@ Our main aim to that user simply books who its need and enjoys vacation through 
 User can list its property.
 User plans its full vacation.
 Two User chat with each other clarify its questions what he/she need for a desire place/hotels/restaurant/home. 
-User can track anybody who’s gone for holidays without disturbing them
+User can track anybody who’s gone for holidays without disturbing them.
+
+Prerequisite:
+
+JDK,Eclipse,Apache Tomcat, Balsamiq Mockups, MySQL & MySQL Jar File, JDBC Connectivity 
